@@ -36,7 +36,3 @@ Argentina Debate es una iniciativa plural, multisectorial y no partidaria que bu
 Adhieren: Facultad de Derecho de la Universidad de Buenos Aires (UBA), Universidad Tecnológica Nacional (UTN), Universidad Tres de Febrero (UNTREF), Universidad Nacional de Cuyo, Universidad Metropolitana para la Educación y el Trabajo (UMET), Universidad Favaloro, Universidad de San Andrés, Universidad Austral. 101 SOLUCIONES, AACREA, AAPRESID, ABA, ACIJ, ADC, ACDE, ADEPA, AEA, AMCHAM, ANAP, Asociación de Abogados de Buenos Aires, CIAS, CIPPEC, CIRA, Club Político, HABITAR, Colegio de Escribanos de la Ciudad de Buenos Aires, Asociación Conciencia, Confederación de la Sociedad Civil, Diálogo Ciudadano, Foro de Convergencia Empresarial, FARN, Fundación Directorio Legislativo, Fundación Led, Fundación Metropolitana, Fundación Vida Silvestre Argentina, Grupo Art. 24 por la Eduación Inclusiva, Grupo Compromiso con el Financiamiento Educativo, IDEMOE, Instituto del Diálogo Interreligioso, Info Ciudadana, Junior Achievement, Nutricion 10 Hambre Cero, OAJNU, Poder Ciudadano, Proyecto Educar 2050, Semana de la Educación, TECHO, YMCA
 
 www.argentinadebate.org | T: @argdebate | F: Argentina Debate
-
-Contacto para la prensa
-Gastón Sandler
-Gaston.sandler@gmail.com | Celular: +5411 53883192
