@@ -8,7 +8,7 @@ author: ""
 tags: Cordoba
 theme: beige
 trans: cube
-published: false
+published: true
 title: OAJNU Córdoba se suma a la 9na Marcha de la Gorra
 ---
 
