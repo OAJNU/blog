@@ -5,7 +5,7 @@ horizontal: "</section></section><section markdown=\"1\" data-background=\"http:
 layout: post
 title: "¡Bienvenidos!"
 author: Coordinador del MNU
-tags: ""
+tags: Nacional
 subtitle: Post de bienvenida
 category: ""
 published: true
