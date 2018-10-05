@@ -4,13 +4,14 @@ vertical: "</section><section markdown=\"1\">"
 horizontal: "</section></section><section markdown=\"1\" data-background=\"http://oajnu.github.io/blog/img/slidebackground.png\"><section markdown=\"1\">"
 subtitle: ""
 layout: post
-author: ""
-tags: Nacional
+author: OAJNU
+tags: Noticias
 theme: beige
 trans: cube
-published: false
+published: true
 title: ARGENTINA DEBATE CONVOCA A UN NUEVO DEBATE PRESIDENCIAL
 ---
+
 
 ![argdebate.jpg]({{site.baseurl}}/img/argdebate.jpg)
 
