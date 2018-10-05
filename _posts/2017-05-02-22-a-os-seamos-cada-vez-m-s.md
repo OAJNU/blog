@@ -4,13 +4,14 @@ vertical: "</section><section markdown=\"1\">"
 horizontal: "</section></section><section markdown=\"1\" data-background=\"http://oajnu.github.io/blog/img/slidebackground.png\"><section markdown=\"1\">"
 subtitle: ""
 layout: post
-author: ""
-tags: ""
+author: OAJNU
+tags: Noticias
 theme: beige
 trans: cube
-published: false
+published: true
 title: "22 años: Seamos cada vez más"
 ---
+
 
 Un 2 de mayo de 1995 un grupo de 10 jóvenes en Buenos Aires se propuso hacer realidad un sueño y perseguir un ideal bajo una Asociación Civil que dieron a llamar **OAJNU**. Seguramente esos jóvenes no se imaginaban que con el correr de los años, esa sigla se convertiría no sólo en un espíritu sino también en un estilo de vida que trasciende cualquier límite o frontera. OAJNU no es sólo una ONG con una estructura 100% voluntaria que crece a pasos de gigantes, lo que la distingue es que está impregnada de cientos de historias de voluntarios, de docentes, de familias y de participantes. Esa es su esencia: la construcción colectiva.
 
