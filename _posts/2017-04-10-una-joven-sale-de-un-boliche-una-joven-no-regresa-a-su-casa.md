@@ -8,9 +8,10 @@ author: OAJNU
 tags: Noticias
 theme: beige
 trans: cube
-published: false
+published: true
 title: Una joven sale de un boliche. Una joven no regresa a su casa.
 ---
+
 
 Una joven sale de un boliche. Una joven regresa a su casa.
 
