@@ -5,10 +5,11 @@ horizontal: "</section></section><section markdown=\"1\" data-background=\"http:
 layout: post
 title: "¡Bienvenidos!"
 author: Coordinador del MNU
-tags: AG CDH CS UNODC
+tags: "\"Buenos Aires\" Corrientes Chaco"
 subtitle: Post de bienvenida
 category: ""
 published: true
 theme: beige
 trans: cube
 ---
+
