@@ -4,7 +4,7 @@ vertical: "</section><section markdown=\"1\">"
 horizontal: "</section></section><section markdown=\"1\" data-background=\"http://oajnu.github.io/blog/img/slidebackground.png\"><section markdown=\"1\">"
 subtitle: ""
 layout: post
-author: ""
+author: OAJNU Cordoba
 tags: Cordoba
 theme: beige
 trans: cube
