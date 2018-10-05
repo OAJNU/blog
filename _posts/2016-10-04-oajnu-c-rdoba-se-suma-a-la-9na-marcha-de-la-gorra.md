@@ -23,3 +23,5 @@ En este marco, hacemos eco de la iniciativa y propuesta del Colectivo Jovenes po
 Como organización de jóvenes voluntarios que busca empoderar a pares, apelamos al diálogo y la construcción colectiva. En pos de nuestro objetivo creemos que es fundamental que la juventud se exprese y reclame por lo que cree, en pos de la construcción de una sociedad en la que no haya discriminados por la forma de vestir o por el lugar en el que vive.
 
 De esta manera, nos posicionamos en contra de la estigmatización social y a favor de la búsqueda de una sociedad cada vez más inclusiva, democrática y promotora de derechos.
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/ogyru4h5obw" frameborder="0" allowfullscreen></iframe>
