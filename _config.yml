@@ -1,21 +1,21 @@
 # Site settings
-title: Capacitación MNU OAJNU BA
-description: ¡Bienvenidos a la plataforma de capacitación del Modelo Internacional de Naciones Unidas de OAJNU Buenos Aires!
-url: "https://oajnu.github.io"
+title: OAJNU | Blog
+description: ¡Bienvenidos al blog de OAJNU!
+url: "https://oajnu.github.io/blog"
 
 
 
 
 # Secondary Parameters
-baseurl: "/oajnubaeduca"
+baseurl: "/blog"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
-logo: /oajnubaeduca/img/logos/mnu.png
+logo: https://oajnu.github.io/assets/logo.png
 
 # Tertiary Parameters
 github_username:  oajnu
-project_repository: oajnubaeduca
-disqus_shortname: oajnubaeduca
+project_repository: blog
+disqus_shortname: oajnu
 # g-analytics: UA-75881392-1
 
 # Build settings
@@ -40,7 +40,7 @@ defaults:
 # Prose Settings
 prose:
   ignore: ['feed.xml', '/js', '/plugin', '/lib', '_layouts', '/_includes', 'Gruntfile.js', 'package.json', 'proselinks.jsonp', 'ppanchor.matin', '.gitignore', '/search', '/css', '/img', 'favicon.png','_data/*.json','LICENSES.md','README.md','colorscheme.scss','index.html']
-  siteurl: 'http://oajnu.github.io/oajnubaeduca/'
+  siteurl: 'http://oajnu.github.io/blog/'
   ispp: true
   media: 'img'
   metadata:
