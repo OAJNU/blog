@@ -2,15 +2,16 @@
 slideinit: "<section markdown=\"1\" data-background=\"http://oajnu.github.io/blog/img/slidebackground.png\"><section markdown=\"1\">"
 vertical: "</section><section markdown=\"1\">"
 horizontal: "</section></section><section markdown=\"1\" data-background=\"http://oajnu.github.io/blog/img/slidebackground.png\"><section markdown=\"1\">"
-subtitle: ""
+subtitle: Se suma
 layout: post
-author: ""
+author: OAJNU Cordoba
 tags: Cordoba
 theme: beige
 trans: cube
 published: false
 title: OAJNU Córdoba se suma a la 9na Marcha de la Gorra
 ---
+
 
 ![]({{site.baseurl}}/http://oajnu.org/media/k2/items/cache/4695cb3b19cbf906e45dac0da0913068_L.jpg)
 
