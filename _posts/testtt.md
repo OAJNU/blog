@@ -1,5 +1,5 @@
 ---
-title: '22 años: Seamos cada vez más'
+title: '22 años: Seamos cada vez máss'
 author: OAJNU
 tags: Noticias
 date: '2019-05-08'
