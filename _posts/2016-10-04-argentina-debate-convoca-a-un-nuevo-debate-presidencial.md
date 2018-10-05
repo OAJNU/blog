@@ -5,7 +5,7 @@ horizontal: "</section></section><section markdown=\"1\" data-background=\"http:
 subtitle: ""
 layout: post
 author: ""
-tags: ""
+tags: Nacional
 theme: beige
 trans: cube
 published: false
