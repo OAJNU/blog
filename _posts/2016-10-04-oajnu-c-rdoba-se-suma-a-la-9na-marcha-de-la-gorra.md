@@ -2,9 +2,9 @@
 slideinit: "<section markdown=\"1\" data-background=\"http://oajnu.github.io/blog/img/slidebackground.png\"><section markdown=\"1\">"
 vertical: "</section><section markdown=\"1\">"
 horizontal: "</section></section><section markdown=\"1\" data-background=\"http://oajnu.github.io/blog/img/slidebackground.png\"><section markdown=\"1\">"
-subtitle: Se suma
+subtitle: ""
 layout: post
-author: OAJNU Cordoba
+author: ""
 tags: Cordoba
 theme: beige
 trans: cube
