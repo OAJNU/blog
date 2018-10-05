@@ -1,7 +1,7 @@
 # Site settings
 title: OAJNU | Blog
 description: ¡Bienvenidos al blog de OAJNU!
-url: "https://oajnu.github.io/blog"
+url: "https://oajnu.github.io"
 
 
 
@@ -10,7 +10,7 @@ url: "https://oajnu.github.io/blog"
 baseurl: "/blog"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
-logo: https://oajnu.github.io/assets/logo.png
+logo: https://oajnu.github.io/img/logo.png
 
 # Tertiary Parameters
 github_username:  oajnu
