@@ -1,5 +1,7 @@
 backend:
   name: git-gateway
+  identity_url: "https://oajnublog.netlify.com/.netlify/identity"
+  gateway_url: "https://oajnublog.netlify.com/.netlify/git/github"
 media_folder: 'assets/uploads'
 collections:
   - name: 'blog'
