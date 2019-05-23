@@ -10,6 +10,10 @@
   <body>
     <!-- Include the script that builds the page and powers Netlify CMS -->
     <script>
+      if (window.location.href == "https://oajnu.github.io/blog/admin/#/") {
+        window.location.replace("https://oajnublog.netlify.com/admin/#/");
+      }
+
       if (window.netlifyIdentity) {
         window.netlifyIdentity.on("init", user => {
         if (!user) {
@@ -20,11 +24,6 @@
         });
       }
     </script>
-    <script>
-        netlifyIdentity.init({
-          APIUrl: "https://oajnublog.netlify.com/.netlify/identity"
-        });
-        </script>
     <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
   </body>
 </html>
