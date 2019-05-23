@@ -20,6 +20,9 @@
           window.netlifyIdentity.on("login", () => {
           document.location.href = "/admin/";
           });
+          window.netlifyIdentity.on("logout", () => {
+          document.location.replace("https://oajnublog.netlify.com/admin/#/");
+          });
         }
         });
       }
