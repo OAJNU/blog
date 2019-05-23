@@ -68,5 +68,11 @@
 	{% include analytics.html %}
 
 	<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+	
+	<script>
+		if (window.location.href == "https://oajnublog.netlify.com") {
+			window.location.replace("https://oajnu.github.io/blog/");
+	      	}
+	</script>
 
 </head>
