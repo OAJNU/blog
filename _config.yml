@@ -8,9 +8,9 @@ url: "https://oajnu.github.io"
 
 # Secondary Parameters
 baseurl: "/blog"
-header-img: https://oajnu.github.io/img/home-bg.jpg
+header-img: https://oajnu.github.io/blog/img/home-bg.jpg
 headercolor: "#FFFFFF"
-logo: https://oajnu.github.io/img/logo.png
+logo: https://oajnu.github.io/blog/img/logo.png
 
 # Tertiary Parameters
 github_username:  oajnu
@@ -35,7 +35,7 @@ defaults:
       type: "pages"
     values:
       layout: "default"
-      header-img: "https://oajnu.github.io/img/home-bg.jpg"
+      header-img: "https://oajnu.github.io/blog/img/home-bg.jpg"
 
 # Prose Settings
 prose:
