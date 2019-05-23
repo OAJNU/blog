@@ -27,7 +27,7 @@ layout: page
         </h3>
         {% endif %}
     </a>
-    <p class="post-meta" style="margin-bottom:5px">Publicado por {{ post.author }} el {{ post.date | date: "%-d de %B del %Y" }}</p>
+    <p class="post-meta" style="margin-bottom:5px">Publicado {% if post.author %}por {{ post.author }} {% endif %}el {{ post.date | date: "%-d de %B del %Y" }}</p>
 	<div class="notepad-index-post-tags" style="">
 		{% for tag in post.tags %}<a href="{{ site.baseurl }}/search/index.html#{{ tag | cgi_encode }}" title="Otras pubilcaciones de {{ tag }} tag">{{ tag }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
 	</div>
