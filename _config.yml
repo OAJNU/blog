@@ -7,10 +7,10 @@ url: "https://oajnu.github.io"
 
 
 # Secondary Parameters
-baseurl: "/blog"
-header-img: https://oajnu.github.io/blog/img/home-bg.jpg
+baseurl: "https://oajnu.github.io/blog"
+header-img: /img/home-bg.jpg
 headercolor: "#FFFFFF"
-logo: https://oajnu.github.io/blog/img/logo.png
+logo: /logo.png
 
 # Tertiary Parameters
 github_username:  oajnu
