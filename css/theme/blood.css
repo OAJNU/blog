@@ -24,7 +24,7 @@ body {
   background-color: #2b2b2b; }
 
 .reveal {
-  font-family: Ubuntu, "sans-serif";
+  font-family: "Ubuntu", sans-serif;
   font-size: 36px;
   font-weight: normal;
   letter-spacing: -0.02em;
@@ -46,7 +46,7 @@ body {
 .reveal h6 {
   margin: 0 0 20px 0;
   color: #eeeeee;
-  font-family: Ubuntu, "sans-serif";
+  font-family: "Ubuntu", sans-serif;
   line-height: 0.9em;
   letter-spacing: 0.02em;
   text-transform: uppercase;
