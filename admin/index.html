@@ -10,7 +10,7 @@
   <body>
     <!-- Include the script that builds the page and powers Netlify CMS -->
     <script>
-      if (window.location.href == "https://oajnu.github.io/blog/admin/") {
+      if (window.location.href == "https://oajnu.org/blog/admin/") {
         window.location.replace("https://oajnublog.netlify.com/admin/#/");
       }
 
@@ -22,7 +22,7 @@
             });
           }
           window.netlifyIdentity.on("logout", () => {
-            document.location.replace("https://oajnu.github.io/blog/");
+            document.location.replace("https://oajnu.org/blog/");
           });
         });
       }
