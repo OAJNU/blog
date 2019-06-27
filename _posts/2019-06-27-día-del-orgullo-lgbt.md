@@ -4,7 +4,7 @@ title: Día del Orgullo LGBT+
 date: 2019-06-28T03:00:00.000Z
 tags: Comisión Directiva
 author: OAJNU
-published: true
+published: false
 ---
 Desde 1970, todos los 28 de junio se celebra el “Día Internacional del Orgullo LGBT+” u “Orgullo gay” en memoria de un hito histórico conocido como “los disturbios de Stonewall”, símbolo iniciático para el movimiento de liberación de las disidencias sexuales y de género comprendidas en las siglas LGBT+ (Lesbianas, gais, bisexuales, transgénero, travestis, transexuales, intersexuales y queer). Stonewall Inn, bar neoyorkino concurrido principalmente por hispanos, afros, homosexuales, lesbianas, trans y drag queens, fue intervenido violentamente por la policía el 28 de Junio de 1969. Sin previo aviso y sin vestir sus uniformes, agentes policiales llevaron a cabo esa noche una de las tantas razzias que acostumbraban a realizar bajo el amparo de represivas leyes americanas del momento y a través de coimas con los dueños de los bares. La indignación acumulada ante las golpizas, las detenciones arbitrarias y los demás abusos de poder llevaron a que lxs presentes se negaran a ser detenidos, llamando la atención de la población y los medios, que fueron agolpándose en las inmediaciones del bar. El conflicto duró dos días y generó una visibilización y movilización de los grupos LGBT+ sin precedentes.
 
