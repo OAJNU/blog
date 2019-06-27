@@ -6,7 +6,7 @@ published: true
 title: OAJNU Córdoba se suma a la 9na Marcha de la Gorra
 ---
 
-![]({{baseurl}}/assets/uploads/portada-9na-marcha-de-la-gorra.png)
+![]({{site.baseurl}}/assets/uploads/portada-9na-marcha-de-la-gorra.png)
 
 Somos una organización de jóvenes que tenemos como objetivo lograr una sociedad cada vez más inclusiva y promotora de derechos. Es por esto que creemos muy importante expresar nuestra postura frente a lo que viven miles de jóvenes cordobeses: la estigmatización social avalada por un Código de Faltas. Un Código que con la figura del ‘merodeo’ discrimina y excluye a diario a los jóvenes que  provienen de los barrios más vulnerados de la provincia.
 
