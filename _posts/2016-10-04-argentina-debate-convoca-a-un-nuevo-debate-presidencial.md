@@ -7,7 +7,7 @@ title: ARGENTINA DEBATE CONVOCA A UN NUEVO DEBATE PRESIDENCIAL
 ---
 
 
-![argdebate.jpg]({{site.baseurl}}/img/argdebate.jpg)
+![argdebate.jpg](/assets/uploads/argdebate.jpg)
 
 Los canales de televisión abierta y de televisión por cable son los primeros en confirmar que  transmitirán la segunda gran etapa del Ciclo Argentina Debate 2015, el debate presidencial que la institución organizará el domingo 15 de noviembre a las 21 horas en la Facultad de Derecho de la Universidad de Buenos Aires, poniendo a disposición la señal abierta y gratuita para TV, radio, e Internet de todo el país y de la región. EL debate se transmitirá en vivo también por YouTube.
 
