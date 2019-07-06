@@ -13,3 +13,15 @@ Durante todo el primer semestre comenzamos una serie de talleres en los colegios
 Buscamos que los jóvenes logren tener una mirada más amplia sobre lo que es la política, y que no la entiendan como sinónimo de un edificio público o tiempo de elecciones, sino que logren asimilar como vivimos rodeados por ésta en nuestra vida cotidiana, y cómo esta actividad permite generar cambios estructurales en nuestra sociedad.
 
 También queremos transmitir la importancia de vivir en democracia y de poder elegir a nuestros representantes, en este momento en el que transcurrimos un año electoral. Reflexionaremos sobre los derechos y libertades que la democracia permite.
+
+Esperamos continuar con esta iniciativa en el segundo semestre en nuevos colegios y escuelas de la provincia.
+
+Los dejamos con una serie de fotografías de nuestra última intervención.
+
+![](/assets/uploads/img_20190702_094244.jpg)
+
+![](/assets/uploads/img_20190702_082835.jpg)
+
+![](/assets/uploads/img_20190702_084125.jpg)
+
+![](/assets/uploads/img_20190702_082344.jpg)
