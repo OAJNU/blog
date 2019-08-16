@@ -20,4 +20,4 @@ El proceso de ingreso a la organización en Salta es a través de la asistencia 
 
 Hacer voluntariado en OAJNU brinda constantes satisfacciones, experiencias, crecimiento personal y profesional, oportunidades y empoderamiento. ¡Sumate a generar cambios, a llegar a muchos jóvenes! ¡Sumate a OAJNU!
 
-![]()
+![](/assets/uploads/taller-nv.png)
