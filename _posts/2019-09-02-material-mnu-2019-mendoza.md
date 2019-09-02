@@ -1,7 +1,7 @@
 ---
 layout: post
-title: MATERIAL MNU 2019 - MENDOZA
-date: 2019-09-03T01:20:20.550Z
+title: MODELO DE NACIONES UNIDAS REGIONAL - MENDOZA
+date: 2019-09-02T01:20:20.550Z
 tags: Mendoza
 author: Gastón
 published: true
