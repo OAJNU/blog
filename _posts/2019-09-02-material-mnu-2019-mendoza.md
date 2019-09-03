@@ -91,14 +91,10 @@ de octubre de 2019
 Inscripciones:
 
 1. Inicio: miércoles 28 de agosto de 2019
-
 2. Cierre: sábado 28 de septiembre de 2019
-
 3. Precio:
-
-1. $300 por participante abonando hasta el 14/09/2019 inclusive
-
-2. $400 por participante abonando después del 28/09/2019
+4. $300 por participante abonando hasta el 14/09/2019 inclusive
+5. $400 por participante abonando después del 28/09/2019
 
 Dichos montos podrán ser cancelados durante las capacitaciones externas. La
 
@@ -156,14 +152,8 @@ descubrimientos con otros participantes y el público visitante.
 
 Acá se encuentra toda la información del Modelo de Naciones Unidas Regional. 
 
-**BASE Y CONDICIONES**
-
- https://cutt.ly/Swl0AqB 
-
-**CARPETA DE DIFUSIÓN**  https://cutt.ly/Nwl0AjJ 
-
-**FICHA DE INSCRIPCIÓN** 
-
-https://cutt.ly/hwl0A5Z
-
-**PLANILLAS DE PAÍSES** https://cutt.ly/rwl0ANM
+* **BASE Y CONDICIONES** https://cutt.ly/Swl0AqB 
+* **CARPETA DE DIFUSIÓN**  https://cutt.ly/Nwl0AjJ 
+* **FICHA DE INSCRIPCIÓN DE DELEGACIONES** https://cutt.ly/hwl0A5Z
+* **PLANILLAS DE PAÍSES** https://cutt.ly/rwl0ANM
+* **INSCRIPCIÓN INDIVIDUAL** https://forms.gle/Xiv2QJ5V9A2iiHsJ8
