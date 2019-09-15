@@ -4,7 +4,7 @@ title: DÍA NACIONAL DE LA JUVENTUD
 date: 2019-09-15T20:58:43.366Z
 tags: Comisión Directiva
 author: Comisión Directiva
-published: false
+published: true
 ---
 Cada 16 de septiembre conmemoramos con profundo respeto uno de los sucesos de mayor significancia en la historia de nuestro país: la Noche de los Lápices. Recordamos los diversos secuestros y asesinatos perpetrados por la dictadura cívico-militar en el lapso del 16 al 21 de septiembre de 1976, contra jóvenes de entre 14 y 18 años, en su mayoría estudiantes de la Unión de Estudiantes Secundarios (UES) y de otras agrupaciones de la ciudad de La Plata. La violencia hacia ellos se desató en respuesta a los reclamos que venían sosteniendo por las reincorporación de la gratuidad del boleto educativo. 
 
