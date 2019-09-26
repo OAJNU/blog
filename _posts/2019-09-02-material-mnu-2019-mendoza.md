@@ -157,3 +157,4 @@ Acá se encuentra toda la información del Modelo de Naciones Unidas Regional.
 * **FICHA DE INSCRIPCIÓN DE DELEGACIONES** https://cutt.ly/hwl0A5Z
 * **PLANILLAS DE PAÍSES** https://cutt.ly/rwl0ANM
 * **INSCRIPCIÓN INDIVIDUAL** https://forms.gle/Xiv2QJ5V9A2iiHsJ8
+* **PAPERS** https://n9.cl/d5tx
