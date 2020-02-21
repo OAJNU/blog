@@ -20,7 +20,7 @@ disqus_shortname: oajnu
 # g-analytics: UA-75881392-1
 
 # Build settings
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
