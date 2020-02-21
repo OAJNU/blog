@@ -7,9 +7,9 @@
     JEKYLL_ENV = "production"
 
 [context.stg]
-    [context.production.environment]
+    [context.stg.environment]
         JEKYLL_ENV = "staging"
 
 [context.dev]
-    [context.production.environment]
+    [context.dev.environment]
         JEKYLL_ENV = "development"
