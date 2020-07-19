@@ -6,4 +6,4 @@ tags: Mendoza
 author: OAJNU Mendoza
 published: true
 ---
-En este link pueden encontrar los archivos que se realizaron durante Debate Joven.
+En este [link](https://drive.google.com/drive/folders/1TaslykAjULjh2WMzsELcnj1CRzabHwDu?usp=sharing) pueden encontrar los archivos que se realizaron durante Debate Joven.
