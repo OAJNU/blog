@@ -3,8 +3,8 @@ layout: post
 title: Última Reunión de Nuevos Ingresantes - OAJNU San Juan
 date: 2019-08-06T15:15:00.000Z
 tags: San Juan
-author: 'Secretaria de Comunicación RP San Juan, a cargo de M. German Rodriguez R.'
-published: true
+author: Secretaria de Comunicación RP San Juan, a cargo de M. German Rodriguez R.
+published: false
 ---
 Se acerca fin de año y es la última vez que podrán personas sumarse a nuestro voluntariado. Esperamos con ansias sumar nuevas voces, nuevas perspectivas y nuevas fuerzas para lograr con conjunto empoderar a cada vez más pares.
 
