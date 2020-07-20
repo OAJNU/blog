@@ -3,10 +3,9 @@ layout: post
 title: TALLERES DE PARTICIPACIÓN CIUDADANA - Cierre del Primer Semestre
 date: 2019-07-06T15:00:02.272Z
 tags: San Juan
-author: >-
-  Secretaria de Comunicación de OAJNU San Juan (a cargo de M. German Rodriguez
-  R.)
-published: true
+author: Secretaria de Comunicación de OAJNU San Juan (a cargo de M. German
+  Rodriguez R.)
+published: false
 ---
 Durante todo el primer semestre comenzamos una serie de talleres en los colegios secundarios de la provincia con el objetivo de trabajar la importancia de la participación ciudadana. Estos talleres tienen como principal **objetivo incentivar a los jóvenes de la provincia de San Juan en la participación política, motivándolos a votar y comprometiéndolos activamente con su comunidad**.
 
